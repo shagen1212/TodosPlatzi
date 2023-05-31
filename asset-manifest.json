@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodosPlazti/static/css/main.44c9f458.css",
+    "main.js": "/TodosPlazti/static/js/main.528f2e69.js",
+    "index.html": "/TodosPlazti/index.html",
+    "static/media/delete.svg": "/TodosPlazti/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/TodosPlazti/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.44c9f458.css.map": "/TodosPlazti/static/css/main.44c9f458.css.map",
+    "main.528f2e69.js.map": "/TodosPlazti/static/js/main.528f2e69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c9f458.css",
+    "static/js/main.528f2e69.js"
+  ]
+}
